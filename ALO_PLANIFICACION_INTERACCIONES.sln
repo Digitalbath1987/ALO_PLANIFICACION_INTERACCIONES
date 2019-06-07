@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "ALO_PLANIFICACION_INTERACCIONES", "ALO_PLANIFICACION_INTERACCIONES\ALO_PLANIFICACION_INTERACCIONES.dtproj", "{124F7591-8443-4994-9898-B86F96AB4CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{124F7591-8443-4994-9898-B86F96AB4CBB}.Development|Default.ActiveCfg = Development
+		{124F7591-8443-4994-9898-B86F96AB4CBB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
